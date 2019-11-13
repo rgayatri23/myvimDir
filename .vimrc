@@ -1,7 +1,7 @@
 " LOADING
 "execute pathogen#infect()
 "Source plugins.vim
-so ~/.vim/plugins.vim
+"so ~/.vim/plugins.vim
 
 " LEADER
 let mapleader=" "
